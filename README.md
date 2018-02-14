@@ -6,5 +6,5 @@ Either (i) create an Android Studio project with theses files, and link to Vufor
 
 You will need to unzip assets.zip to the Assets folder.
 
-Don't forget to change the VUFORIA LICENSE file in SampleApplicationSession (a Vuforia samples class) to your own license file. You need to register with Vuforia to obtain a free license.
+Don't forget to change the VUFORIA LICENSE key string in SampleApplicationSession (a Vuforia samples class) to your own license. You will need to register with Vuforia to obtain a free license.
 
