@@ -1,4 +1,4 @@
-# wsiarapp
+# WSI AR App
 
 Core AR flood app code (triangulation & visualisation only) based on Vuforia SDK sample UserDefinedTargets.
 
