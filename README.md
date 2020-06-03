@@ -2,7 +2,7 @@
 
 Core AR flood app code (triangulation & visualisation only) based on Vuforia SDK sample UserDefinedTargets.
 
-**How to get running**
+# How to get running
 
 Either (i) create an Android Studio project with theses files, and link to Vuforia's SampleApplication classes (see Vuforia samples repository on their web site), or (ii) install the Android Vuforia samples directly and integrate these files into those.
 
